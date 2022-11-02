@@ -21,7 +21,6 @@
   
     .about-section {
       text-align: center;
-      /* padding: 10px 10px; */
     }
   
    }
@@ -32,10 +31,6 @@
     font-family: var(--default-font-family);
     padding: 160px 20px;
   }
-  
-  /* .about-section {
-    padding: 160px 20px;
-  } */
   
   .about-section h1 {
     font-size: 64px;
